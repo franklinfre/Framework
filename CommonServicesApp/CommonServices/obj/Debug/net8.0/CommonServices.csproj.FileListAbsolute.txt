@@ -1,0 +1,11 @@
+E:\Framework\CommonServicesApp\CommonServices\bin\Debug\net8.0\CommonServices.deps.json
+E:\Framework\CommonServicesApp\CommonServices\bin\Debug\net8.0\CommonServices.dll
+E:\Framework\CommonServicesApp\CommonServices\bin\Debug\net8.0\CommonServices.pdb
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfoInputs.cache
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfo.cs
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.csproj.CoreCompileInputs.cache
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.dll
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\refint\CommonServices.dll
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\CommonServices.pdb
+E:\Framework\CommonServicesApp\CommonServices\obj\Debug\net8.0\ref\CommonServices.dll
